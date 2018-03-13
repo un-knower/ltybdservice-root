@@ -1,0 +1,3 @@
+bootstrapServers: 140.143.180.132:26667,140.143.180.132:26668
+subscribeType: subscribe
+checkpointLocation:
